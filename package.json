@@ -2,7 +2,7 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "products build --output public"
+        "build": "vite build"
     },
     "devDependencies": {
         "autoprefixer": "^10.4.20",
